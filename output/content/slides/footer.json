@@ -1,0 +1,36 @@
+{
+  "AB Testing Use Cases": {
+    "AB Experiment Overview": "https://www.abtesting.website",
+    "Designing Effective AB Test": "https://www.abtesting.website/5-designing-effective-abtest.html",
+    "Analyze AB Testing": "https://www.abtesting.website/8-analyze-ab-test.html"
+  },
+  "Field Experiments": {
+    "Define": "https://www.abtesting.website/",
+    "Co Variates": "https://www.abtesting.website/field-experiments/4-covariates.html"
+  },
+  "Folders": {
+    "Ab Experiment": "https://www.abtesting.website/slides/ab-experiment/",
+    "Ab Experiment Chatbots": "https://www.abtesting.website/slides/ab-experiment-chatbots/",
+    "Ab Test Faq": "https://www.abtesting.website/slides/ab-test-faq/",
+    "Abexperiment Chatbots": "https://www.abtesting.website/slides/abexperiment-chatbots/",
+    "Abexperiment Chatbots Metrics": "https://www.abtesting.website/slides/abexperiment-chatbots-metrics/",
+    "Abexperiment Example": "https://www.abtesting.website/slides/abexperiment-example/",
+    "Abexperiment Websites": "https://www.abtesting.website/slides/abexperiment-websites/",
+    "Ai Assistants": "https://www.abtesting.website/slides/ai-assistants/",
+    "Approaches": "https://www.abtesting.website/slides/approaches/",
+    "Channels": "https://www.abtesting.website/slides/channels/",
+    "Chatbot Ab Testing": "https://www.abtesting.website/slides/chatbot-ab-testing/",
+    "Common Questions": "https://www.abtesting.website/slides/common-questions/",
+    "Ethical Considerations Ab Testing": "https://www.abtesting.website/slides/ethical-considerations-ab-testing/",
+    "Hte": "https://www.abtesting.website/slides/hte/",
+    "P Value": "https://www.abtesting.website/slides/p-value/",
+    "Statistical Fundamentals": "https://www.abtesting.website/slides/statistical-fundamentals/",
+    "Statistical Methods": "https://www.abtesting.website/slides/statistical-methods/"
+  },
+  "Pages": {
+    "Ab Test Assumptions": "https://www.abtesting.website/slides/ab-test-assumptions.html",
+    "Ab Testing Channels": "https://www.abtesting.website/slides/ab-testing-channels.html",
+    "Chi Squared Test": "https://www.abtesting.website/slides/chi-squared-test.html",
+    "Ethical Considerations Ab Testing": "https://www.abtesting.website/slides/ethical-considerations-ab-testing.html"
+  }
+}

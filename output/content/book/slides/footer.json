@@ -1,0 +1,23 @@
+{
+  "AB Testing Use Cases": {
+    "AB Experiment Overview": "https://www.abtesting.website",
+    "Designing Effective AB Test": "https://www.abtesting.website/5-designing-effective-abtest.html",
+    "Analyze AB Testing": "https://www.abtesting.website/8-analyze-ab-test.html"
+  },
+  "Field Experiments": {
+    "Define": "https://www.abtesting.website/",
+    "Co Variates": "https://www.abtesting.website/field-experiments/4-covariates.html"
+  },
+  "Folders": {},
+  "Pages": {
+    ".Html": "https://www.abtesting.website/book/slides/.html",
+    "Slide1": "https://www.abtesting.website/book/slides/Slide1.html",
+    "Slide2": "https://www.abtesting.website/book/slides/Slide2.html",
+    "Slide3": "https://www.abtesting.website/book/slides/Slide3.html",
+    "Slide4": "https://www.abtesting.website/book/slides/Slide4.html",
+    "Slide5": "https://www.abtesting.website/book/slides/Slide5.html",
+    "Slide6": "https://www.abtesting.website/book/slides/Slide6.html",
+    "Slide7": "https://www.abtesting.website/book/slides/Slide7.html",
+    "Slide8": "https://www.abtesting.website/book/slides/Slide8.html"
+  }
+}

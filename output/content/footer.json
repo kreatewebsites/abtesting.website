@@ -1,0 +1,55 @@
+{
+  "AB Testing Use Cases": {
+    "AB Experiment Overview": "https://www.abtesting.website",
+    "Designing Effective AB Test": "https://www.abtesting.website/5-designing-effective-abtest.html",
+    "Analyze AB Testing": "https://www.abtesting.website/8-analyze-ab-test.html"
+  },
+  "Field Experiments": {
+    "Define": "https://www.abtesting.website/",
+    "Co Variates": "https://www.abtesting.website/field-experiments/4-covariates.html"
+  },
+  "Folders": {
+    "3 Setup": "https://www.abtesting.website/3-setup/",
+    "Advance Techniques": "https://www.abtesting.website/advance-techniques/",
+    "Causal Inference": "https://www.abtesting.website/causal-inference/",
+    "Field Experiment": "https://www.abtesting.website/field-experiment/",
+    "Industry": "https://www.abtesting.website/industry/",
+    "Jobs": "https://www.abtesting.website/jobs/",
+    "Saas Products": "https://www.abtesting.website/saas-products/",
+    "Slides": "https://www.abtesting.website/slides/"
+  },
+  "Pages": {
+    "1 Introduction": "https://www.abtesting.website/1-introduction.html",
+    "10 Abtesting Channels": "https://www.abtesting.website/10-abtesting-channels.html",
+    "11 Ethical Considerations In Abtesting": "https://www.abtesting.website/11-ethical-considerations-in-abtesting.html",
+    "12 Ab Testing Case Studies": "https://www.abtesting.website/12-ab-testing-case-studies.html",
+    "13 Build Culture Of Ab Testing": "https://www.abtesting.website/13-build-culture-of-ab-testing.html",
+    "14 Future Of Ab Testing": "https://www.abtesting.website/14-future-of-ab-testing.html",
+    "15 Conclusion Abtesting Book": "https://www.abtesting.website/15-conclusion-abtesting-book.html",
+    "16 Abtesting For Chatbots": "https://www.abtesting.website/16-abtesting-for-chatbots.html",
+    "2 When To Use Abtesting": "https://www.abtesting.website/2-when-to-use-abtesting.html",
+    "3 Setting Up Abtest": "https://www.abtesting.website/3-setting-up-abtest.html",
+    "4 Statistical Fundamentals": "https://www.abtesting.website/4-statistical-fundamentals.html",
+    "5 Designing Effective Abtest": "https://www.abtesting.website/5-designing-effective-abtest.html",
+    "6 Ab Testing Tools": "https://www.abtesting.website/6-ab-testing-tools.html",
+    "7 Run Ab Tests Bak": "https://www.abtesting.website/7-run-ab-tests-bak.html",
+    "7 Run Ab Tests.": "https://www.abtesting.website/7-run-ab-tests..html",
+    "7 Run Ab Tests": "https://www.abtesting.website/7-run-ab-tests.html",
+    "8 Analyze Ab Test": "https://www.abtesting.website/8-analyze-ab-test.html",
+    "9 Advance Ab Testing Techniques": "https://www.abtesting.website/9-advance-ab-testing-techniques.html",
+    "Abtesting": "https://www.abtesting.website/abtesting.html",
+    "Blog": "https://www.abtesting.website/blog.html",
+    "Chapter List": "https://www.abtesting.website/chapter-list.html",
+    "Experiment Types": "https://www.abtesting.website/experiment-types.html",
+    "Mann Whitney U Test": "https://www.abtesting.website/mann-whitney-u-test.html",
+    "P Value": "https://www.abtesting.website/p-value.html",
+    "Paired T Test": "https://www.abtesting.website/paired-t-test.html",
+    "Privacypolicy": "https://www.abtesting.website/privacypolicy.html",
+    "Readiness": "https://www.abtesting.website/readiness.html",
+    "Sample Size": "https://www.abtesting.website/sample-size.html",
+    "Sitemap": "https://www.abtesting.website/sitemap.html",
+    "Statistical Fundamentals": "https://www.abtesting.website/statistical-fundamentals.html",
+    "Two Sample T Test": "https://www.abtesting.website/two-sample-t-test.html",
+    "Wilcoxon Signed Rank Test": "https://www.abtesting.website/wilcoxon-signed-rank-test.html"
+  }
+}
